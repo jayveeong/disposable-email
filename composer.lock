@@ -8,7 +8,7 @@
     "packages": [
         {
             "name": "exorus/php-mime-mail-parser",
-            "version": "1.7.4",
+            "version": "2.1.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/eXorus/php-mime-mail-parser.git",
@@ -22,7 +22,7 @@
             },
             "require": {
                 "ext-mailparse": "*",
-                "php": ">=7.*"
+                "php": ">=7.1"
             },
             "require-dev": {
                 "phpunit/phpunit": "4.*",
