@@ -48,6 +48,8 @@ There is a Vagrantfile to be used with [vagrant](https://www.vagrantup.com/).
 -  `pecl install mailparse`
 - (see "php --ini" for file: ) `echo "extension=mailparse.so" >> /usr/local/etc/php/5.5/php.ini`
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 ## Troubleshooting
 
 ### Mails do not appear in the mailbox
